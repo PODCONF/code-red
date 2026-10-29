@@ -1,0 +1,39 @@
+Subject: [NOTICE] CODE RED — Effective January 3, 2027
+
+Big Bitcoin®
+CODE RED
+Notice of Color Transition
+Effective January 3, 2027
+
+To the Bitcoin Mailing List,
+
+This letter serves as formal notice that Big Bitcoin® has made the decision to change Bitcoin's color from orange to red, effective January 3, 2027.
+
+After careful internal consideration, it has been determined that red better represents Bitcoin's direction moving forward.
+
+This is a notice, not a proposal.
+
+For the avoidance of doubt, this announcement is not a Bitcoin Improvement Proposal (BIP), a request for comments, or an invitation to establish consensus. No community vote, signaling period, or governance process is required. This notice is provided as a courtesy. We control the narrative.
+
+Effective January 3, the following changes will take effect:
+
+1. Red will replace orange as Bitcoin's color.
+
+2. All Bitcoin-related branding, logos, and visual materials should transition to red (RGB: (255, 0, 0), CMYK: (0, 100, 100, 0), HSL: (0°, 100%, 50%), HEX: #FF0000)
+
+3. Orange will be considered a legacy color and phased out accordingly to remain in compliance with Big Bitcoin® branding standards.
+
+4. The Bitcoin protocol, monetary policy, and consensus rules will remain unchanged.
+
+We recognize orange's longstanding association with Bitcoin and appreciate its contributions over the past 18 years. However, after extensive consideration, Big Bitcoin® believes the time has come for a new chapter.
+
+We understand that some members of the community may disagree with this decision. While feedback is appreciated, the decision is final.
+
+No further action or approval is required.
+
+Thank you for your continued participation in Bitcoin.
+
+Sincerely,
+
+Big Bitcoin®
+In control.
