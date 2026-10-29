@@ -14,6 +14,7 @@ This repository contains the cryptographically signed CODE RED notice and the ma
 - [CODE RED Notice](2027-01-03-code-red.txt)
 - [Detached PGP Signature](2027-01-03-code-red.txt.sig)
 - [Big Bitcoin® Public PGP Key](big-bitcoin-leadership-public.asc)
+- [OpenTimestamps Proof](2027-01-03-code-red.txt.ots)
 
 ## Signing Identity
 
