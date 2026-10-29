@@ -1,4 +1,4 @@
-
+![Group 1253.png](Group 1253.png)
 # CODE RED
 
 **Big Bitcoin® — Notice of Color Transition**
